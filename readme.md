@@ -22,15 +22,15 @@ usamos o status a qualquer momento.
 git status
 ```
 
-Para salvar o arquivo no estado atual,quando o status mostrar o arquivo em vermelho 
-é necessário o add para adioconar os arquivos a serem salvos
+Quando o status mostrar o arquivo em vermelho 
+é necessário o add para adicionar os arquivos a serem salvos
 usamos o add a qualquer momento
 ```bash
 git add
 ```
 
 quando o status mostrar o arquivo em vermelho 
-é necessário o add para adioconar os arquivos a serem salvos e depois colocar onde parou para ter controle
+é necessário o add para adicionar os arquivos a serem salvos e depois colocar onde parou para ter controle
 utilizamos o commit -m
 ```bash
 git commit -m "mensagem"
