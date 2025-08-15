@@ -42,5 +42,17 @@ utilizamos o commit -m
 git commit -m "mensagem"
 ```
 
+Para baixar as alterações que estão apenas no Github utilizando o pull. <br>
+**IMPORTANTE** Sempre deve baixar a ultima versão da nuvem antes de enviar a atual do computador.
+```bash
+git pull
+```
+
+Para enviar os commits do pc para o Github utilizamos o push
+```bash
+git push
+```
+
+
 
 
