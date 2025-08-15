@@ -20,7 +20,7 @@ Para vincular o projeto ao Github utilizamos o comando remote, basta o repositó
 **IMPORTANTE** Depois do remote deve ser executados os outros 2 comandos da página
 ```bash
 git remote add origin < url_repositorio_github >
-
+```
 
 Para vericar a situação do repositório (pasta)
 usamos o status a qualquer momento.
